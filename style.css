@@ -2,4 +2,111 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     margin: 0;
+
+}
+
+h1 {
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 400px;
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    justify-content: space-around;
+}
+
+a {
+    background-color: brown;
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.btn {
+    text-align: center;
+}
+
+.hero-section {
+    height: 1040px;
+    background-image: linear-gradient(to right, rgba(37, 39, 40, 0.7), rgba(21, 21, 24, 0.7)), url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+.second-section {
+    height: auto;
+}
+
+h2 {
+    color: black;
+    font-size: 46px;
+    text-align: center;
+}
+
+h6 {
+    color: black;
+    font-size: 22px;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.width-10 {
+    width: 15%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 0px 5px;
+
+    background-color: rgba(63, 52, 52, 0.229);
+}
+
+.bg-2 {
+    background-color: coral;
+    border: 2px solid black;
+}
+
+input {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    border-top: 5px;
+    border-right: 5px;
+    border-left: 5px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: black;
+    height: auto;
+
+}
+
+footer h4 {
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+
 }
