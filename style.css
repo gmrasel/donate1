@@ -91,6 +91,55 @@ input {
     text-align: center;
 }
 
+.third {
+    margin-top: 10%;
+}
+
+.flex-container1 {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.plan-p {
+    color: black;
+}
+
+.width-33 {
+    width: 30%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border: 2px solid none;
+    border-radius: 15px;
+}
+
+.text {
+    color: rgb(97, 95, 93);
+}
+
+.illustrator {
+    width: 20%;
+    padding-top: 10px;
+}
+
+#bg-1 {
+    background-color: #ff99c2;
+}
+
+#bg-2 {
+    background-color: #ccf5ff;
+}
+
+#bg-3 {
+    background-color: #99ff99;
+}
+
+.mission {
+    text-align: center;
+}
+
 
 
 
