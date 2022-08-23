@@ -192,6 +192,12 @@ form input {
 footer {
     background-color: black;
 
+
+}
+
+.humble {
+    padding-top: 100px;
+    color: coral;
 }
 
 footer h4 {
