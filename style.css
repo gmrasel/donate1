@@ -68,7 +68,7 @@ h6 {
 }
 
 .width-10 {
-    width: 15%;
+    width: 20%;
     margin-left: 3%;
     margin-right: 3%;
     padding: 0px 5px;
@@ -159,6 +159,29 @@ input {
     padding: 25px 30px;
 }
 
+form {
+    text-align: center;
+
+
+}
+
+form input {
+    border: 5px splid black;
+
+}
+
+.form {
+    background-color: aqua;
+    padding-top: 20px;
+}
+
+.update-btn {
+    border: 15px splid black;
+    font-size: 36px;
+    background-color: crimson;
+    margin-left: -5px;
+}
+
 
 
 
@@ -168,7 +191,6 @@ input {
 
 footer {
     background-color: black;
-    height: auto;
 
 }
 
